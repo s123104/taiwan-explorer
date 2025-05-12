@@ -78,7 +78,7 @@ taiwan-explorer/
 
 1. 將專案克隆到本地:
    ```bash
-   git clone https://github.com/yourusername/taiwan-explorer.git
+   git clone https://github.com/s123104/taiwan-explorer.git
    ```
 
 2. 使用瀏覽器打開 `index.html` 檔案，或使用本地伺服器運行:
